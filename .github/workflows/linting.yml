@@ -22,6 +22,10 @@ jobs:
         with: 
           python-version: 3.8
           
+      - name: install packages
+        run: |
+          make install   
+          
       - name: lint codes
         run: |
           make lint
