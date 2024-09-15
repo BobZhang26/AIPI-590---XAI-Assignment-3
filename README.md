@@ -1,3 +1,4 @@
+[![Install Packages](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/install.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/install.yml)
 [![Python Application Test with Github Actions](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
 ## AIPI-590 XAI Assignment 3: Interpretable Machine Learning 
 
