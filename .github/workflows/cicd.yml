@@ -1,4 +1,4 @@
-name: Python Application Test with Github Actions 
+name: CICD
 on:
   schedule:
   - cron:  '0 3 * * SUN'
