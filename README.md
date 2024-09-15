@@ -2,7 +2,7 @@
 [![Formating](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/format.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/format.yml)
 
 [![Linting](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/linting.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/linting.yml)
-[![CICD](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
+[![CICD](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/cicd.yml)
 ## AIPI-590 XAI Assignment 3: Interpretable Machine Learning 
 
 ### Instructions
