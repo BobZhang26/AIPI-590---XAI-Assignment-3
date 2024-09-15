@@ -5,7 +5,7 @@
 [![CICD](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/cicd.yml)
 [![Testing](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/testing.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/testing.yml)
 ## AIPI-590 XAI Assignment 3: Interpretable Machine Learning 
-
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/blob/main/XAI_assignment_3.ipynb)
 ### Instructions
 In this assignment, I will work with a dataset from a telecommunications company (https://www.kaggle.com/datasets/blastchar/telco-customer-churn/code). The goal is to understand the factors that contribute to customer churn—when customers leave the company for a competitor—and to develop interpretable models that can predict which customers are most at risk of churning.
 
