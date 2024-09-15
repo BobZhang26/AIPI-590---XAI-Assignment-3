@@ -22,4 +22,5 @@ Generalized Additive Model (GAM): Build a GAM to model the non-linear relationsh
 
 ## Exploratory Analysis
 ![Alt Text](./num_dist.jpg)
+![Alt Text](./num_box.jpg)
 ![Alt Text](./cat_dist.jpg)
