@@ -11,7 +11,6 @@
 ### Instructions
 In this assignment, I will work with a dataset from a telecommunications company (https://www.kaggle.com/datasets/blastchar/telco-customer-churn/code). The goal is to understand the factors that contribute to customer churn—when customers leave the company for a competitor—and to develop interpretable models that can predict which customers are most at risk of churning.
 
-<i class="fas fa-coffee"></i> Coffee
 
 ### Tasks
 
