@@ -1,8 +1,9 @@
+[![CICD](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/cicd.yml)
+
 [![Install Packages](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/install.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/install.yml)
 [![Formating](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/format.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/format.yml)
 
 [![Linting](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/linting.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/linting.yml)
-[![CICD](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/cicd.yml)
 [![Testing](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/testing.yml/badge.svg)](https://github.com/BobZhang26/AIPI-590---XAI-Assignment-3/actions/workflows/testing.yml)
 ## AIPI-590 XAI Assignment 3: Interpretable Machine Learning 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YKf82BTdL36J1nWqf2s12nLvWaz9DD-y#scrollTo=NqiqXpUk9YcC)
