@@ -1,0 +1,27 @@
+name: Testing
+on:
+  schedule:
+  - cron:  '0 3 * * SUN'
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  # workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Step 1: Check out the code from the repository
+      - name: Check out repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python 3.8
+        uses: actions/setup-python@v4
+        with: 
+          python-version: 3.8
+          
+      - name: testing codes
+        run: |
+          make test
