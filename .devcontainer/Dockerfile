@@ -10,10 +10,10 @@ RUN apt-get update && apt-get -y install --no-install-recommends \
    gcc 
    
 ARG USER="codespace"
-ARG VENV_PATH="/home/${USER}/venv"
+ARG VENV_PATH="/home/${USER}/.venv"
 COPY requirements.txt /tmp/
 COPY Makefile /tmp/
-RUN su $USER -c "/usr/bin/python3 -m venv /home/${USER}/venv" \
+RUN su $USER -c "/usr/bin/python3 -m venv ${VENV_PATH}" \
    && su $USER -c "${VENV_PATH}/bin/pip --disable-pip-version-check --no-cache-dir install -r /tmp/requirements.txt" \
    && rm -rf /tmp/requirements.txt 
 
