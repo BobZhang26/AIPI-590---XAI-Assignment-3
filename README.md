@@ -21,5 +21,5 @@ Generalized Additive Model (GAM): Build a GAM to model the non-linear relationsh
 4. Model Comparison: Compare the performance and interpretability of the different models you built. Discuss the strengths and weaknesses of each approach and provide recommendations for which model(s) the telecommunications company should use to address their customer churn problem.
 
 ## Exploratory Analysis
-![Alt Text](num_dist.png)
-![Alt Text](cat_dist.png)
+![Alt Text](./num_dist.jpg)
+![Alt Text](./cat_dist.jpg)
