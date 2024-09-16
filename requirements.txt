@@ -10,7 +10,7 @@ matplot
 seaborn
 ruff
 nbval
-sklearn
+scikit-learn
 
 
 
